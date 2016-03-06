@@ -1,0 +1,28 @@
+name: labcidade
+favicon: null
+layout_spectrum: 0.45457465504296124
+typography_spectrum: 0.479235443752259
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.1474785152822733
+  lightness: 0.9661644869484007
+  saturation: 0.6098033366724849
+  rhythmicContrast: 0.18583020195364952
+purpose: []
