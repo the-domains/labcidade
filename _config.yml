@@ -2,6 +2,7 @@ name: labcidade
 favicon: null
 layout_spectrum: 0.45457465504296124
 typography_spectrum: 0.479235443752259
+title: Laboratório da Cidade
 cta:
   domain: null
   bucket: null
